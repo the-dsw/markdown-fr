@@ -6,6 +6,19 @@ Markdown supports two styles of headers, Setext and atx.
 
 Setext-style headers are “underlined” using equal signs (for first-level headers) and dashes (for second-level headers). For example:
 
+# Titres
+
+Quand nous començons la rédaction d'un document Markdown, nous devons ajouter un titre et certains sous-en-têtes.
+
+Markdown supporte deux types de têtes, setext et ATX.
+
+
+
+
+
+
+
+
 ```
 This is an H1
 =============
